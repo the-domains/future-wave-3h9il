@@ -1,0 +1,14 @@
+layout_spectrum: 0.7830315681640059
+typography_spectrum: 0.07860468630678952
+color:
+  brandStrength: 0.3377776371780783
+  lightness: 0.9886674196459353
+  saturation: 0.6817520481999964
+  rhythmicContrast: 0.1782737043686211
+  brandColors:
+    - '#624D5C'
+    - '#000000'
+    - '#FEFEFE'
+    - '#AEB5C8'
+    - '#FDAD00'
+name: future wave
